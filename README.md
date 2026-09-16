@@ -156,10 +156,4 @@ Cyberpulse is an educational and portfolio project.
 
 The security events, alerts, users, organizations, IP addresses, and other simulation data used by the application are fictional and are not intended to represent real systems or security incidents.
 
-## 👤 Author
 
-**K. R. Stewart**
-
-Computer Science Student
-
-GitHub: `Krstewart28`
