@@ -150,10 +150,3 @@ Cyberpulse was created to explore the development of cybersecurity-focused web a
 
 The project demonstrates practical experience with React application architecture, reusable components, client-side state and data management, cybersecurity monitoring concepts, and modern web development tools.
 
-## ⚠️ Disclaimer
-
-Cyberpulse is an educational and portfolio project.
-
-The security events, alerts, users, organizations, IP addresses, and other simulation data used by the application are fictional and are not intended to represent real systems or security incidents.
-
-
